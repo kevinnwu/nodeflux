@@ -1,0 +1,7 @@
+streamlit == 1.4.0
+urlib3 == 1.26.8
+typing_extensions == 4.0.1
+streamlit-webrtc == 0.34.2
+numpy == 1.22.1
+opencv-python-headless == 4.5.5.62
+av == 8.1.0
